@@ -12,7 +12,6 @@ This week, I analyzed data from two different business models: the **Chinook Mus
 |---|---|
 | `week3_chinook_Queries.sql` | Queries analyzing customer spending, revenue trends, and track pricing on the Chinook database |
 | `week3_sales_Queries.sql` | Queries analyzing product line performance, regional sales, and deal-size segmentation on the retail dataset |
-| `week3_Analysis_Report.docx` | Full written report submitted for internship deliverable |
 
 ## Chinook Music Store Insights
 - **Top Customer:** Helena Holy is the highest-spending customer, with total purchases of $49.62 — a useful benchmark for loyalty/VIP reward targeting.
