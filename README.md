@@ -32,7 +32,7 @@ This week, I analyzed data from two different business models: the **Chinook Mus
 - Date extraction (`EXTRACT`)
 
 ## Tools
-PostgreSQL, DBeaver
+PostgreSQL, PgAdmin
 
 ---
 *Week 3 project — AnalystLab Africa Data Analytics Internship (Batch B)*
